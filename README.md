@@ -33,13 +33,11 @@ ensure qb-menu
 ```
 
 ## Screenshots
-![City Services](https://i.imgur.com/l6ZRlXP.png)
-![Request Birth Certificate](https://i.imgur.com/zJRiuDI.png)
-![Request Driver License](https://i.imgur.com/2scxBew.png)
-![Request Weapon License](https://i.imgur.com/pSudfVl.png)
-![Apply For a Job](https://i.imgur.com/26Kd0FU.png)
-![Cityhall DrawText Interaction](https://i.imgur.com/Uxh2GZC.png)
-![Cityhall QB-Target Interaction](https://i.imgur.com/K54cMLt.png)
+![City Services](https://user-images.githubusercontent.com/89742984/212379425-3b590441-5554-4c04-9358-c0aeff47990f.png)
+![Request Birth Certificate](https://user-images.githubusercontent.com/89742984/212379601-3699461e-8d41-4792-97a4-a07a0f4229f2.png)
+![Apply For a Job](https://user-images.githubusercontent.com/89742984/212379637-a654a4ee-c1b9-4bd2-8a53-3815b64925f8.png)
+![Cityhall DrawText Interaction](https://user-images.githubusercontent.com/89742984/212379708-22564951-da00-4ab1-9ef3-96ee2db01fe8.png)
+![Cityhall QB-Target Interaction](https://user-images.githubusercontent.com/89742984/212379725-4b7612f1-626a-4ec8-8954-939417cdb16d.png)
 ![Driving School Sending And Receiving Mail](https://i.imgur.com/iJof4jI.png)
 ![Driving School DrawText Interaction](https://i.imgur.com/32BPp8f.png)
 ![Driving School QB-Target Interaction](https://i.imgur.com/P7jWBsV.png)
