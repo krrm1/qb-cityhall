@@ -15,8 +15,6 @@ City Services for QB-Core Framework
 - Ability to request weapon license when granted it by the police
 - Ability to apply to government jobs
 - Ability to add multiple cityhall locations
-- Ability to add nultiple driving school locations
-- Ability to take driving lessons
 - qb-target integration, this is optional
 - PolyZone and qb-core DrawText integration, this is optional
 
@@ -38,9 +36,6 @@ ensure qb-menu
 ![Apply For a Job](https://user-images.githubusercontent.com/89742984/212379637-a654a4ee-c1b9-4bd2-8a53-3815b64925f8.png)
 ![Cityhall DrawText Interaction](https://user-images.githubusercontent.com/89742984/212379708-22564951-da00-4ab1-9ef3-96ee2db01fe8.png)
 ![Cityhall QB-Target Interaction](https://user-images.githubusercontent.com/89742984/212379725-4b7612f1-626a-4ec8-8954-939417cdb16d.png)
-![Driving School Sending And Receiving Mail](https://i.imgur.com/iJof4jI.png)
-![Driving School DrawText Interaction](https://i.imgur.com/32BPp8f.png)
-![Driving School QB-Target Interaction](https://i.imgur.com/P7jWBsV.png)
 
 # License
 
