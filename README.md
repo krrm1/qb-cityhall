@@ -1,5 +1,4 @@
 # qb-cityhall
-dont use it not ready ⚠️⚠️⚠️
 City Services for QB-Core Framework
 
 ## Dependencies
